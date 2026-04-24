@@ -9,7 +9,7 @@ A fully functional browser-based macOS clone with window management, dock, spotl
 
 ## Demo
 
-👉 **Try it live:** [joonanykanen.github.io/macos-web](https://joonanykanen.github.io/macos-web)
+👉 **Try it live:** [joonanykanen.github.io/macos-web](https://joonanykanen.github.io/macos-web) *(opens in new tab)*
 
 ## Features
 
@@ -44,7 +44,7 @@ A fully functional browser-based macOS clone with window management, dock, spotl
 
 ## Technical Details
 
-- **~7,000 lines** of code across 16 files
+- **~6,980 lines** of code across 16 files
 - **Zero dependencies** — pure vanilla HTML, CSS, and JavaScript
 - **Class-based architecture** with separate modules per app
 - **Custom window manager** with drag, resize, minimize, maximize, and z-index management
@@ -94,7 +94,7 @@ python3 -m http.server 8000
 
 ## Disclaimer
 
-> ⚠️ This entire codebase was written by an LLM Agent (**Qwen3.6-27B**). No human wrote any of the code. The project was created through a single conversation where the agent planned, architected, and implemented the full macOS clone from scratch.
+> ⚠️ This entire codebase was written by an LLM Agent ([**Qwen3.6-27B**](https://huggingface.co/Qwen/Qwen3.6-27B)). No human wrote any of the code. The project was created through a single conversation where the agent planned, architected, and implemented the full macOS clone from scratch.
 
 ## License
 
