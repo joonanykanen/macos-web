@@ -9,7 +9,7 @@ A fully functional browser-based macOS clone with window management, dock, spotl
 
 ## Demo
 
-👉 **Try it live:** [joonanykanen.github.io/macos-web](https://joonanykanen.github.io/macos-web) *(opens in new tab)*
+👉 **Try it live:** [joonanykanen.github.io/macos-web](https://joonanykanen.github.io/macos-web)
 
 ## Features
 
